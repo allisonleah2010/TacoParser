@@ -52,11 +52,9 @@
                 Location = locationPoint
             };
 
-            var tacoPoint = new TacoBell();
-
             // Then, return the instance of your TacoBell class
 
-            return tacoPoint;
+            return tacoBell;
 
 
             // Since it conforms to ITrackable

@@ -43,5 +43,7 @@ namespace LoggingKata.Test
 
         //TODO: Create a test ShouldParseLatitude
 
+
+
     }
 }
